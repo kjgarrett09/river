@@ -12,8 +12,8 @@ URL = "http://metwdb-openaccess.ichec.ie/metno-wdb2ts/locationforecast?lat={lat}
 DEEL_BRIDGE = {"lat": "54.0808005", "long": "-9.5116742"}
 
 PROXIES = {
-    "http": "http://hdqproxy01",
-    "https": "https://hdqproxy01",
+    # "http": "http://hdqproxy01",
+    # "https": "https://hdqproxy01",
 }
 
 # End Constants
